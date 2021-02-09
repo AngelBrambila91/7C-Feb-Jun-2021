@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS01\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
