@@ -2,6 +2,12 @@
     "folders": [
         {
             "path": "..\\Formatting"
+        },
+        {
+            "path": "..\\NullHandling"
+        },
+        {
+            "path": "..\\Variables"
         }
     ]
 }

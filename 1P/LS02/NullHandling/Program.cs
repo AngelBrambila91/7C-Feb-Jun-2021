@@ -11,10 +11,10 @@ namespace NullHandling
             #region Working With Nullables
             int thisCannotBeNull = 4;
             //thisCannotBeNull = null;
-            int? thisCouldBeNull = null;
+            int? thisCouldBeNull = null; // reference
             WriteLine(thisCouldBeNull);
             WriteLine(thisCouldBeNull.GetValueOrDefault());
-            thisCouldBeNull = 7;
+            thisCouldBeNull = 73213;
             WriteLine(thisCouldBeNull);
             WriteLine(thisCouldBeNull.GetValueOrDefault());
             #endregion

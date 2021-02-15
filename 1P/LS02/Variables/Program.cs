@@ -32,16 +32,16 @@ namespace Variables
                 Console.WriteLine($"default (int) = {default(int)}");
                 Console.WriteLine($"default (bool) = {default(bool)}");
                 Console.WriteLine($"default (DateTime) = {default(DateTime)}");
-                Console.WriteLine($"default (string) = {default(string)}"); // const char  * [][]
+                Console.WriteLine($"default (string) = {default(string)}"); // const char  * [][] // null
             #endregion
 
             #region Arrays
                 string [] names;
                 names = new string[4];
-                names [0] = "Baltazar";
-                names [1] = "Diegito";
-                names [2] =  "Estela";
-                names [3] = "Luis Adrian";
+                names [0] = "Dali";
+                names [1] = "Sami";
+                names [2] =  "Tach";
+                names [3] = "Erick";
 
                 for (int i = 0; i < names.Length; i++)
                 {

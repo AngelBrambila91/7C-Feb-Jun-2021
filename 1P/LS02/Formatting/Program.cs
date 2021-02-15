@@ -26,16 +26,15 @@ namespace Formatting
 
               #region Interpolated strings
                   WriteLine($"{numberOfApples} apples costs {pricePerApple * numberOfApples:C}"); // { expression, {aligment}: format type}
+              #endregion
 
+              #region Alignment
                   string applesText = "Apples";
                   int applesCount = 1234;
                   string bananasText = "Bananas";
                   int bananasCount = 56789;
-              #endregion
-
-              #region Alignment
                 WriteLine(
-                      format: "{0, -8}{1, 6:N0}",
+                      format: "{0, -8}{1, 6}",
                       arg0 : "Name",
                       arg1 : "Count"
                   );
@@ -52,7 +51,7 @@ namespace Formatting
                       arg1 : bananasCount
                   );
 
-                WriteLine($"{applesText, -8} {applesCount,6} \n{bananasText, -8:N0} {bananasCount,6}");
+                WriteLine($"{applesText, -8} {applesCount,10} \n{bananasText, -8:N0} {bananasCount,10}");
               #endregion
 
               #region Input From User
