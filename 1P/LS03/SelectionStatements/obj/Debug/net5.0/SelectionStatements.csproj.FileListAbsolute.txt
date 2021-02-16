@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csprojAssemblyReference.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfo.cs
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.exe
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.deps.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.dev.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\bin\Debug\net5.0\ref\SelectionStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\ref\SelectionStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.genruntimeconfig.cache

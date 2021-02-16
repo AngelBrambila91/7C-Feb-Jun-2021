@@ -28,7 +28,7 @@ namespace NullHandling
             #region Checking for Null
                 if(thisCouldBeNull != null)
                 {
-                    int length = thisCouldBeNull.Length; // throw exception
+                  //  int length = thisCouldBeNull.Length; // throw exception
                 }
             #endregion
         }
