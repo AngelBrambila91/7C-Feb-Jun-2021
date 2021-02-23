@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.csprojAssemblyReference.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS03\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache

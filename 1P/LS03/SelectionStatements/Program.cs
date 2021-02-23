@@ -79,7 +79,7 @@ namespace SelectionStatements
                 }
             #endregion
 
-            #region Pattern Matching Switch
+            // #region Pattern Matching Switch
                 string path = @"C:\Code";
                 Write("Press R for Readonly or W for Write");
                 ConsoleKeyInfo key = ReadKey();
@@ -102,37 +102,37 @@ namespace SelectionStatements
                     );
                 }
                 string message = string.Empty;
-                // // Pattern matching
-                // switch (s)
-                // {
-                //     case FileStream writeableFile when s.CanWrite:
-                //         message = "the stream is a file that I can write to";
-                //         break;
+            //     // Pattern matching
+            //     switch (s)
+            //     {
+            //         case FileStream writeableFile when s.CanWrite:
+            //             message = "the stream is a file that I can write to";
+            //             break;
 
-                //     case FileStream readOnlyFile:
-                //         message = "The stream is a read-only file";
-                //         break;
+            //         case FileStream readOnlyFile:
+            //             message = "The stream is a read-only file";
+            //             break;
                     
-                //     case MemoryStream ms:
-                //         message = "The stream is a memory address";
-                //         break;
+            //         case MemoryStream ms:
+            //             message = "The stream is a memory address";
+            //             break;
 
-                //     default:
-                //         message = "The stream is some other type";
-                //         break;
+            //         default:
+            //             message = "The stream is some other type";
+            //             break;
                     
-                //     case null:
-                //     message = "The stream is null";
-                //     break;
-                // }
-                // WriteLine(message);
-            #endregion
+            //         case null:
+            //         message = "The stream is null";
+            //         break;
+            //     }
+            //     WriteLine(message);
+            // #endregion
 
             #region Switch Simplified
                 message = s switch
                 {
                     FileStream writeablefile when s.CanWrite
-                    => "The stream is a dile that I can write to",
+                    => "The stream is a file that I can write to",
                     FileStream readOnlyFile
                     => "The stream is a read-only file",
                     MemoryStream ms

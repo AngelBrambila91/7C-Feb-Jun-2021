@@ -20,7 +20,7 @@ namespace Operators
 
             int c = 3;
             int d = ++c;
-            WriteLine($"c is {c} , b is {d}");
+            WriteLine($"c is {c} , d is {d}");
             #endregion
             
             #region Binary Arithmetic Operators
