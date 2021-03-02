@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\bin\Debug\net5.0\DebugAndTraceListener.exe
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\bin\Debug\net5.0\DebugAndTraceListener.deps.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\bin\Debug\net5.0\DebugAndTraceListener.runtimeconfig.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\bin\Debug\net5.0\DebugAndTraceListener.runtimeconfig.dev.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\bin\Debug\net5.0\DebugAndTraceListener.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\bin\Debug\net5.0\ref\DebugAndTraceListener.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\bin\Debug\net5.0\DebugAndTraceListener.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.csprojAssemblyReference.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.AssemblyInfo.cs
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\ref\DebugAndTraceListener.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS04\DebugAndTraceListener\obj\Debug\net5.0\DebugAndTraceListener.genruntimeconfig.cache
