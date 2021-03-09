@@ -1,0 +1,9 @@
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\bin\Debug\netstandard2.0\GeneralLibrary.deps.json
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\bin\Debug\netstandard2.0\GeneralLibrary.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\bin\Debug\netstandard2.0\GeneralLibrary.pdb
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.csprojAssemblyReference.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.AssemblyInfo.cs
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.dll
+E:\Ceti-Holders\7C-Feb-Jun-2021\1P\LS05\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.pdb

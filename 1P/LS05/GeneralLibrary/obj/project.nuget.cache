@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "32JZzT9IeaHGNi2iIo4+rrVut1g8jIGHOzFBiwXuLRFzdvsBPQQe2jJs2gbmkUNanWzVvpg4ePZ76KT54T+xSA==",
+  "success": true,
+  "projectFilePath": "E:\\Ceti-Holders\\7C-Feb-Jun-2021\\1P\\LS05\\GeneralLibrary\\GeneralLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
