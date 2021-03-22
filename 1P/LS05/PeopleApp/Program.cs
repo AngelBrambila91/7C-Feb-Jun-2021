@@ -8,6 +8,8 @@ namespace PeopleApp
     {
         static void Main(string[] args)
         {
+            #region POO Stuff
+                
             var baltazar = new Person();
             baltazar.Name = "Baltazar";
             WriteLine(baltazar.ToString());
@@ -53,6 +55,45 @@ namespace PeopleApp
 
             var martian = new Person("Marvin", "Mars");
             WriteLine($"{martian.Name} of {martian.HomePlanet} was created {martian.Instantiated}");
+            #endregion
+
+            #region Procreate
+                var ana = new Person { Name = "Ana" };
+                var tiberio = new Person { Name = "Tiberio" };
+                var vicente = new Person { Name = "Vicente" };
+                // call instance method
+                var baby1 = ana.ProceateWith(tiberio);
+                baby1.Name = "NoPalindromo";
+                // static call
+                var baby2 = Person.Procreate(vicente, ana);
+
+                // ussing overload operator
+                var baby3  = ana * tiberio;
+                WriteLine($"{ana.Name} has {ana.Children.Count} children");
+                WriteLine($"{tiberio.Name} has {tiberio.Children.Count} children");
+                WriteLine($"{vicente.Name} has {vicente.Children.Count} children");
+                WriteLine($"{ana.Name}'s first child is named \"{ana.Children[1].Name}\".");
+            #endregion
+
+            #region TestLocal Functions
+                WriteLine($"5! is {Person.Factorial(5)}");
+            #endregion
+            
+            ana.Shout = Ana_Shout;
+            ana.Poke();
+            ana.Poke();
+            ana.Poke();
+            ana.Poke();
+            ana.Poke();
+
         }
+        #region Using Delegates
+            private static void Ana_Shout(object sender, EventArgs e)
+            {
+                Person p = (Person)sender;
+                WriteLine($"{p.Name} is this angry : {p.AngerLevel}");
+            }
+
+        #endregion
     }
 }
