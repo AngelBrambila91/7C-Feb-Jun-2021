@@ -6,6 +6,7 @@ namespace PeopleApp
 {
     class Program
     {
+        delegate int DelegateWithMatch(string s);
         static void Main(string[] args)
         {
             #region POO Stuff
@@ -78,17 +79,97 @@ namespace PeopleApp
             #region TestLocal Functions
                 WriteLine($"5! is {Person.Factorial(5)}");
             #endregion
-            
-            ana.Shout = Ana_Shout;
-            ana.Poke();
-            ana.Poke();
-            ana.Poke();
-            ana.Poke();
-            ana.Poke();
 
+            #region Delegates
+            var p1 = new Person();
+            int answer = p1.MethodICall("Something");
+
+            // Instance the delegate
+            var d = new DelegateWithMatch(p1.MethodICall);
+            // call the instance
+            int answer2 = d("Tuple");
+            WriteLine(answer);
+            WriteLine(answer2);
+
+            
+            ana.Shout += Ana_Shout;
+            ana.Shout += Tiberio_Shout;
+            ana.Shout += Luis_Shout;
+            ana.Poke();
+            ana.Poke();
+            ana.Poke();
+            ana.Poke();
+            ana.Poke();
+            #endregion
+
+            #region IComparable
+                Person[] people =
+                {
+                    new Person { Name = "Juan"},
+                    new Person { Name = "Ana"},
+                    new Person { Name = "Tiberio"},
+                    new Person { Name = "Estela"},
+                    new Person { Name = "Diego"},
+                };
+
+                WriteLine("Initial List");
+                foreach (var person in people)
+                {
+                    WriteLine($"{person.Name}");
+                }
+
+                WriteLine("Using IComparable Interface");
+                Array.Sort(people);
+                foreach (var person in people)
+                {
+                    WriteLine($"{person.Name}");
+                }
+
+            #endregion
+
+            #region IComparer
+                WriteLine("Use IComparer implementation to sort:");
+                Array.Sort(people, new PersonComparer());
+                foreach (var person in people)
+                {
+                    WriteLine($"{person.Name}");
+                }
+            #endregion
+
+            #region Using Generics
+                var t1 = new Thing();
+                t1.Data = 42;
+                WriteLine($"Thing with an integer : {t1.Process(42)}");
+                var t2 = new Thing();
+                t2.Data = "apple";
+                WriteLine($"Thing with a string : {t1.Process("apple")}");
+
+                var gt1 = new GenericThing<int>();
+                gt1.Data = 42;
+                WriteLine($"Generic Thing with an integer : {gt1.Process(42)}");
+                var gt2 = new GenericThing<string>();
+                gt2.Data = "apple";
+                WriteLine($"Generic Thing with an integer : {gt2.Process("apple")}");
+
+                string number1 = "4";
+                WriteLine($"{number1} squared is {Squarer.Square<string>(number1)}");
+                byte number2 = 3;
+                WriteLine($"{number2} squared is {Squarer.Square<byte>(number2)}");
+            #endregion
         }
         #region Using Delegates
             private static void Ana_Shout(object sender, EventArgs e)
+            {
+                Person p = (Person)sender;
+                WriteLine($"{p.Name} is this angry : {p.AngerLevel}");
+            }
+
+            private static void Tiberio_Shout(object sender, EventArgs e)
+            {
+                
+            }
+
+            private static void Luis_Shout(object sender, EventArgs e)
             {
                 Person p = (Person)sender;
                 WriteLine($"{p.Name} is this angry : {p.AngerLevel}");

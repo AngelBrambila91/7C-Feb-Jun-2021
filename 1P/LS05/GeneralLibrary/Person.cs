@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace GeneralLibrary
 {
-    public class Person : object
+    public class Person : IComparable<Person>
     {
         // Member Variables
         /*
@@ -98,7 +98,18 @@ namespace GeneralLibrary
         #endregion
 
         #region Delegates
-        public EventHandler Shout;
+
+        public int MethodICall(string input)
+        {
+            return input.Length;
+        }
+
+        public int MethodICall2(string input)
+        {
+            return input.Length;
+        }
+
+        public event EventHandler Shout;
         // field
         public int AngerLevel;
         // method
@@ -113,6 +124,11 @@ namespace GeneralLibrary
                     Shout(this, EventArgs.Empty);
                 }
             }
+        }
+
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
         }
         #endregion
 
