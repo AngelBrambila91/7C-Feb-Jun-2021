@@ -156,6 +156,59 @@ namespace PeopleApp
                 byte number2 = 3;
                 WriteLine($"{number2} squared is {Squarer.Square<byte>(number2)}");
             #endregion
+
+            #region Using struct
+            var dv1 = new DisplacementVector(3, 5);
+            var dv2 = new DisplacementVector(-2 , 7);
+            var dv3 = dv1 + dv2;
+            WriteLine($"{dv3.X} , {dv3.Y}");
+             #endregion
+
+             /*
+             using (Animal a = new Animal())
+             {
+                 // code Animal
+             }
+
+             .... compiler converts previous code into something like this ...
+             Animal a = new Animal();
+             try
+             {
+                 // code Animal
+             }
+             finally
+             {
+                 if (a != null ) a.Dispose();
+             }
+             */
+             
+
+             #region Using inheritance
+                 Employee luis = new Employee
+                 {
+                     Name = "Luis Adrian",
+                     DateOfBirth = new DateTime(1990, 12,12)
+                 };
+                 luis.WriteToConsole();
+                 luis.EmployeeCode = "1300851";
+                 luis.HireDate = new DateTime(2011, 11, 23);
+                 WriteLine($"{luis.Name} was hired in {luis.HireDate:dd/MM/yy}");
+
+                 WriteLine(luis.ToString());
+                 
+             #endregion
+
+            #region catching own PersonExceptions
+                 try
+                 {
+                     luis.TimeTravel(new DateTime(1999,12,31));
+                     luis.TimeTravel(new DateTime(1950,12,25));
+                 }
+                 catch (PersonException ex)
+                 {
+                     WriteLine(ex.Message);
+                 }
+             #endregion
         }
         #region Using Delegates
             private static void Ana_Shout(object sender, EventArgs e)
@@ -176,5 +229,7 @@ namespace PeopleApp
             }
 
         #endregion
+
+
     }
 }

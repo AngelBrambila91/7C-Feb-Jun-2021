@@ -132,6 +132,27 @@ namespace GeneralLibrary
         }
         #endregion
 
+        public void TimeTravel(DateTime when)
+        {
+            if (when <= DateOfBirth)
+            {
+                throw new PersonException("If you travel back in time time to a date earlier than your own birth, THE UNIVERSE WILL EXPLODE!!!");
+            }
+            else
+            {
+                WriteLine($"Welcome to {when:yyyy}");
+            }
+        }
+
+        #region Override Methods
+        public override string ToString()
+        {
+            return $"{Name} is a {base.ToString()}";
+        }
+
+        
+        #endregion
+
 
     }
 }
