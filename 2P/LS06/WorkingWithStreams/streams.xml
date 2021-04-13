@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student>Luis</Student>
+  <Student>Ana</Student>
+  <Student>Vicente</Student>
+  <Student>Tiberio</Student>
+  <Student>Layla</Student>
+  <Student>Rivas</Student>
+  <Student>Diego1</Student>
+  <Student>Diego2</Student>
+  <AnotherPeople>Luis</AnotherPeople>
+  <AnotherPeople>Ana</AnotherPeople>
+  <AnotherPeople>Vicente</AnotherPeople>
+  <AnotherPeople>Tiberio</AnotherPeople>
+  <AnotherPeople>Layla</AnotherPeople>
+  <AnotherPeople>Rivas</AnotherPeople>
+  <AnotherPeople>Diego1</AnotherPeople>
+  <AnotherPeople>Diego2</AnotherPeople>
+  <Info>
+    <Name>Luis</Name>
+    <Phone />
+    <Address />
+    <Name>Ana</Name>
+    <Phone />
+    <Address />
+    <Name>Vicente</Name>
+    <Phone />
+    <Address />
+    <Name>Tiberio</Name>
+    <Phone />
+    <Address />
+    <Name>Layla</Name>
+    <Phone />
+    <Address />
+    <Name>Rivas</Name>
+    <Phone />
+    <Address />
+    <Name>Diego1</Name>
+    <Phone />
+    <Address />
+    <Name>Diego2</Name>
+    <Phone />
+    <Address />
+  </Info>
+</Students>
